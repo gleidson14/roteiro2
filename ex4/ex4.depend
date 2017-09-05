@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504157161 source:/home/gl/Desktop/Roteiro2/ex4/main.c
+	<stdio.h>
+	<stdlib.h>
+
